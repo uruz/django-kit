@@ -1,0 +1,12 @@
+*.py[cod]
+*.swo
+*.*~
+*.kpf
+*.DS_Store
+org.eclipse.*
+settings_local.py
+.tz
+*.*project*
+.settings
+.idea
+
